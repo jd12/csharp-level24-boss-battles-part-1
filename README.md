@@ -68,8 +68,11 @@ On Github, create a pull request (name it Development) and mark me as a reviewer
 ## Student Log Questions
 
 In your **STUDENT LOG** answer the following questions
+
 Level 22 Reading
 - What does it mean for something to be null? 
 - Explain the difference between ?, ??, and ! in regards to null
+
+
 Level 24 
 - Which Boss Battle was most difficult and why?
