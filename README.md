@@ -21,40 +21,31 @@ to open it in VS code (note the `.` to denote the current directory)
 
 ## The Point
 
-```csharp
-// Paste your The Point code in this block
+Immediately after completing The Point Challenge run the following commands
+
 ```
+git add Point.cs
+git add Program.cs
+```
+
+
+Then run a `git commit` with the message `feat: Complete Point Boss Battle`
 
 ## The Color
 
-```csharp
-// Paste your The Color code in this block
+After completing The Color Challenge run the following commands
+
+```
+git add Color.cs
+git add Program.cs
 ```
 
 
-## The Card
-
-```csharp
-// Paste your The Card code in this block
-```
+Then run a `git commit` with the message `feat: Complete Color Boss Battle`
 
 
-## The Locked Door
-
-```csharp
-// Paste your The Locked Door code in this block
-```
-
-
-## The Password Validator
-
-```csharp
-// Paste your The Password Validator code in this block
-```
 
 ## Push your code
-
-After you have updated the README, do a `git add` and a `git commit` with the commit message `feat: Complete Boss Battles`
 
 run the below command to push your code
 
@@ -74,5 +65,3 @@ Level 22 Reading
 - Explain the difference between ?, ??, and ! in regards to null
 
 
-Level 24 
-- Which Boss Battle was most difficult and why?
